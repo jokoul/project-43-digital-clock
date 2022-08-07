@@ -9,3 +9,5 @@ This is a clock app made with Javascript vanilla that shows current time. I used
 Javascript, HTML, CSS
 
 ## Launch
+
+https://jokoul.github.io/project-43-digital-clock/
